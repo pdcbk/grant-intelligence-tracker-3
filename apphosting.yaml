@@ -1,0 +1,4 @@
+kind: "AppStack"
+apiVersion: "v1"
+buildSettings:
+  buildScript: "npm install && npm run build"
